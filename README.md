@@ -23,3 +23,8 @@ Une fois déchiffré, ce code permet d’accéder à la session d’Antoine.
 ### Épreuve 4 : Où se trouve Antoine ?
 **Session** : En vous connectant à sa session, vous trouvez un e-mail contenant une pièce jointe : un fichier audio nommé *"important"*. En l’écoutant et en le visualisant, vous y détectez un code morse.
 En le traduisant, vous découvrirez l'endroit sur lequel Antoine enquêtait et où il pourrait être retenu.
+
+
+### Fin & Conclusion :
+	•	**Victoire** : Découvrez où Antoine a a disparu.
+	•	**Échec** :  Les ravisseurs arrivent et vous kidnappent.
