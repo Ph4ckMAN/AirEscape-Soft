@@ -6,7 +6,11 @@ Projet escape game pour les lycéens créé par Dimitry Benjamin et Rémi RT2
 **Votre mission** : Vous devez retrouver Antoine, mais faites vite ! Les ravisseurs savent déjà que vous êtes à sa recherche ! 
 
 ### Épreuve 1 : Un code couleur
-**M5 Stack** : On peut voir devant nous un appareil inconnu que l'on a trouvé dans le bureau d'Antoine. En regardant sur son bureau on voit plusieurs post-it de couleur avec des numéros. En testant le code couleur, on pourra voir une fréquence.
+**M5 Stack** : On peut voir devant nous un appareil inconnu que l'on a trouvé dans le bureau d'Antoine. En regardant sur son bureau on voit plusieurs post-it de couleur avec des numéros. 
+
+![WhatsApp Image 2025-01-31 at 14 18 13](https://github.com/user-attachments/assets/6afd7f48-8c11-4745-99d5-970d3990a978)
+
+En testant le code couleur, on pourra voir une fréquence.
 
 ### Épreuve 2 : Un code mystérieux
 **Audio GQRX** : Avec la fréquence trouvée précédement, on va sur <u>gqrx</u> pour écouter un audio émit. Dans cet audio, on pourra entendre une phrase utilisant la phraséologie de l'aviation. En prenant en compte la première lettre de chaques mot de la phraséologie de l'aviation, on trouve le mot ARMOIRE. Dans l'armoire, vous trouverez une feuille avec l'inscription suivante : *dlu-exv! 15 mars 44 av J.C 3* qui est un code en Cesar.
