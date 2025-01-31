@@ -7,8 +7,7 @@ Projet escape game pour les lycéens créé par Dimitry Benjamin et Rémi RT2
 
 ### Épreuve 1 : Un code couleur
 **M5 Stack** : On peut voir devant nous un appareil inconnu que l'on a trouvé dans le bureau d'Antoine. En regardant sur son bureau on voit plusieurs post-it de couleur avec des numéros. 
-
-![WhatsApp Image 2025-01-31 at 14 18 13](https://github.com/user-attachments/assets/6afd7f48-8c11-4745-99d5-970d3990a978)
+![WhatsApp Image 2025-01-31 at 14 18 13(3)](https://github.com/user-attachments/assets/2e9dbc68-afd6-4bf3-b41b-61b8fb2d34a7)
 
 En testant le code couleur, on pourra voir une fréquence.
 
