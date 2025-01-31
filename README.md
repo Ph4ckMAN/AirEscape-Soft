@@ -4,7 +4,7 @@ Projet escape game pour les lycéens créé par Dimitry, Benjamin et Rémi en RT
 ## Description
 **Synopsis** : Votre ami, le capitaine Antoine Leclerc, a disparu juste avant son vol. En fouillant son bureau, vous découvrez des indices menant à un complot.
 
-**Votre mission** : Vous devez retrouver Antoine, mais faites vite ! Les ravisseurs savent déjà que vous êtes à sa recherche !
+**Votre mission** : Vous devez retrouver la trace d'Antoine, mais faites vite ! Les ravisseurs savent déjà que vous êtes à sa recherche !
 
 ### Épreuve 1 : Un code couleur
 **M5 Stack** : Devant vous se trouve un appareil inconnu découvert dans le bureau d'Antoine. Sur son bureau, plusieurs post-it de couleur portent des numéros. En testant le code couleur, vous obtiendrez une fréquence.
