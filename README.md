@@ -1,26 +1,24 @@
 # AirEscape-Soft
-Projet escape game pour les lycéens créé par Dimitry Benjamin et Rémi RT2
+Projet escape game pour les lycéens créé par Dimitry, Benjamin et Rémi en RT2.
 
-## Description 
-**Synopsis** : Votre ami, le capitaine Antoine Leclerc, a disparu juste avant son vol. En fouillant son bureau, vous découvrez des indices menant à un complot. 
-**Votre mission** : Vous devez retrouver Antoine, mais faites vite ! Les ravisseurs savent déjà que vous êtes à sa recherche ! 
+## Description
+**Synopsis** : Votre ami, le capitaine Antoine Leclerc, a disparu juste avant son vol. En fouillant son bureau, vous découvrez des indices menant à un complot.
+**Votre mission** : Vous devez retrouver Antoine, mais faites vite ! Les ravisseurs savent déjà que vous êtes à sa recherche !
 
 ### Épreuve 1 : Un code couleur
-**M5 Stack** : On peut voir devant nous un appareil inconnu que l'on a trouvé dans le bureau d'Antoine. En regardant sur son bureau on voit plusieurs post-it de couleur avec des numéros. 
+**M5 Stack** : Devant vous se trouve un appareil inconnu découvert dans le bureau d'Antoine. Sur son bureau, plusieurs post-it de couleur portent des numéros. En testant le code couleur, vous obtiendrez une fréquence.
 ![WhatsApp Image 2025-01-31 at 14 18 13(3)](https://github.com/user-attachments/assets/2e9dbc68-afd6-4bf3-b41b-61b8fb2d34a7)
-
-En testant le code couleur, on pourra voir une fréquence.
-
 ### Épreuve 2 : Un code mystérieux
-**Audio GQRX** : Avec la fréquence trouvée précédement, on va sur <u>gqrx</u> pour écouter un audio émit. Dans cet audio, on pourra entendre une phrase utilisant la phraséologie de l'aviation. En prenant en compte la première lettre de chaques mot de la phraséologie de l'aviation, on trouve le mot ARMOIRE. Dans l'armoire, vous trouverez une feuille avec l'inscription suivante : *dlu-exv! 15 mars 44 av J.C 3* qui est un code en Cesar.
+**Audio GQRX** : Grâce à la fréquence trouvée précédemment, vous vous connectez à <u>GQRX</u> pour écouter un audio émis. Dans cet audio, une phrase utilise la phraséologie de l'aviation. En prenant la première lettre de chaque mot de cette phrase, vous obtenez le mot **ARMOIRE**.
+Dans l'armoire, vous trouvez une feuille avec l'inscription suivante : *dlu-exv! 15 mars 44 av. J.-C. 3*, qui est un code César.
 
 ### Épreuve 3 : Déchiffrage du code César
 *dlu-exv!* : correspond à la suite de lettres à déchiffrer
-*15 mars 44 av J.C* : correspond à la mort de César (pour que l’étudiant rentre la date sur internet et pense au code César)
-*3* : correspond au décalage des lettres pour le code César
+*15 mars 44 av. J.-C.* : fait référence à l’assassinat de Jules César, ce qui incite les joueurs à penser au chiffrement César
+*3* : correspond au décalage des lettres dans ce chiffrement
 
-Ce code, une fois déchiffré, nous permet de nous connecter sur la session d'Antoine.
+Une fois déchiffré, ce code permet d’accéder à la session d’Antoine.
 
-### Épreuve 4 : Ou se trouve Antoine ? 
-**Session** : On se connecte à sa session où l'on trouvera un fichier audio nommé secret-morse dans lequel on pourra visualiser et entendre un code morse.
-En déchiffrant ce morse on déchiffrera l'endroit où se trouve Antoine.
+### Épreuve 4 : Où se trouve Antoine ?
+**Session** : En vous connectant à sa session, vous trouvez un e-mail contenant une pièce jointe : un fichier audio nommé *"important"*. En l’écoutant et en le visualisant, vous y détectez un code morse.
+En le traduisant, vous découvrirez l'endroit sur lequel Antoine enquêtait et où il pourrait être retenu.
