@@ -26,5 +26,5 @@ En le traduisant, vous découvrirez l'endroit sur lequel Antoine enquêtait et o
 
 
 ### Fin & Conclusion :
-	•	**Victoire** : Découvrez où Antoine a a disparu.
-	•	**Échec** :  Les ravisseurs arrivent et vous kidnappent.
+**Victoire** : Découvrez où Antoine a a disparu.
+**Échec** :  Les ravisseurs arrivent et vous kidnappent.
