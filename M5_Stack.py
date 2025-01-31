@@ -24,7 +24,7 @@ while True:
         lcd.font(lcd.FONT_DejaVu24)
         code += "a"
         lcd.clear()
-        setScreenColor(0xFF0000)  # Rouge
+        setScreenColor(0xFF40000)  # Rouge
         sleep(0.1)
         setScreenColor(0xFFFFFF)  # Blanc
 
@@ -40,7 +40,7 @@ while True:
         lcd.font(lcd.FONT_DejaVu24)
         code += "b"
         lcd.clear()
-        setScreenColor(0x0000FF)  # Bleu
+        setScreenColor(0xA4DBD6)  # Bleu
         sleep(0.1)
         setScreenColor(0xFFFFFF)  # Blanc
 
