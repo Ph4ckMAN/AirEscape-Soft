@@ -1,5 +1,5 @@
 # AirEscape-Soft
-Projet escape game pour les lycéens créé par Dimitry, Benjamin et Rémi en RT2.
+Projet escape game pour les lycéens créé par Dimitry, Benjamin et Rémi en classe de RT2 2024-2025.
 
 ## Description
 **Synopsis** : Votre ami, le capitaine Antoine Leclerc, a disparu juste avant son vol. En fouillant son bureau, vous découvrez des indices menant à un complot.
@@ -8,10 +8,11 @@ Projet escape game pour les lycéens créé par Dimitry, Benjamin et Rémi en RT
 
 ### Épreuve 1 : Un code couleur
 **M5 Stack** : Devant vous se trouve un appareil inconnu découvert dans le bureau d'Antoine. Sur son bureau, plusieurs post-it de couleur portent des numéros. En testant le code couleur, vous obtiendrez une fréquence.
-![WhatsApp Image 2025-01-31 at 14 18 13(3)](https://github.com/user-attachments/assets/2e9dbc68-afd6-4bf3-b41b-61b8fb2d34a7)
+
 ### Épreuve 2 : Un code mystérieux
-**Audio GQRX** : Grâce à la fréquence trouvée précédemment, vous vous connectez à <u>GQRX</u> pour écouter un audio émis. Dans cet audio, une phrase utilise la phraséologie de l'aviation. En prenant la première lettre de chaque mot de cette phrase, vous obtenez le mot **ARMOIRE**.
-Dans l'armoire, vous trouvez une feuille avec l'inscription suivante : *dlu-exv! 15 mars 44 av. J.-C. 3*, qui est un code César.
+**Audio GQRX** : Grâce à la fréquence trouvée précédemment, vous vous connectez à <u>GQRX</u> pour écouter un audio émis. Dans cet audio, une phrase utilise la phraséologie de l'aviation. En déchiffrant cet audio, vous comprendrez où chercher dans la salle.
+
+Vous y trouverez un indice avec un code écrit dessus.
 
 ### Épreuve 3 : Déchiffrage du code César
 *dlu-exv!* : correspond à la suite de lettres à déchiffrer
@@ -23,7 +24,6 @@ Une fois déchiffré, ce code permet d’accéder à la session d’Antoine.
 ### Épreuve 4 : Où se trouve Antoine ?
 **Session** : En vous connectant à sa session, vous trouvez un e-mail contenant une pièce jointe : un fichier audio nommé *"important"*. En l’écoutant et en le visualisant, vous y détectez un code morse.
 En le traduisant, vous découvrirez l'endroit sur lequel Antoine enquêtait et où il pourrait être retenu.
-
 
 ### Fin & Conclusion :
 **Victoire** : Découvrez où Antoine a disparu.
@@ -37,14 +37,14 @@ Un tableau avec le temps de chaque équipes sera affiché à la fin de la partie
 ## Réponses
 
 ### Épreuve 1 : Un code couleur
-**M5 Stack** : Il faut taper la combinaison **abacabb** ce qui nous affiche la fréquence 95 MHz que nous devons écouter. Sur cette fréquence sera diffusé l'audio *DERNIER-MESSAGE.wav*. 
+Sur le M5 STACK, il faut taper la combinaison **abacabb** ce qui nous affiche la fréquence **95 MHz** que nous devons écouter. Sur cette fréquence sera diffusé l'audio *DERNIER-MESSAGE.wav*. 
 
 ### Épreuve 2 : Un code mystérieux
-**Audio GQRX** : En prenant la première lettre de chaque mot de cette phrase, on obtient le mot **ARMOIRE**.
+On écoute sur GQRX l'audio émit sur la fréqunce 95 MHz. En prenant la première lettre de chaque mot de cette phrase, on obtient le mot **ARMOIRE**.
 Dans l'armoire, se trouvera le papier avec le code César.
 
 ### Épreuve 3 : Déchiffrage du code César
 Pour déchiffrer le code César, il faut prendre une clé de décalage de *3*. Ce qui nous donne le mot de passe de la session d'Antoine : **air-bus!**
 
 ### Épreuve 4 : Où se trouve Antoine ?
-**Session** : En se connectant à sa session, on trouve un e-mail contenant l'audio *SECRET.wav*. En le traduisant, on trouve le flag de l'escape game qui est **Pekin Daxing**.
+En se connectant à sa session, on trouve un e-mail contenant l'audio *SECRET.wav* qui est en code morse. En le traduisant, on trouve le flag de l'escape game qui est **Pekin Daxing**.
