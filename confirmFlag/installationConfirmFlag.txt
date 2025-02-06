@@ -1,0 +1,3 @@
+Nous avons créé une interface permettant d'entrer le nom de l'équipe et de valider le flag.
+
+Pour utiliser cette interface, il est nécessaire d'installer un serveur web, comme Apache2 (que nous utilisons sur Kali Linux), ainsi que MySQL et MariaDB (avec phpMyAdmin si possible). Ensuite, vous devrez installer la base de données via MySQL ou phpMyAdmin.
