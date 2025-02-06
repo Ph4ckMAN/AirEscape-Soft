@@ -29,3 +29,22 @@ En le traduisant, vous découvrirez l'endroit sur lequel Antoine enquêtait et o
 **Victoire** : Découvrez où Antoine a disparu.
 
 **Échec** :  Les ravisseurs arrivent et vous kidnappent.
+
+
+Un tableau avec le temps de chaque équipes sera affiché à la fin de la partie.
+
+
+## Réponses
+
+### Épreuve 1 : Un code couleur
+**M5 Stack** : Il faut taper la combinaison **abacabb** ce qui nous affiche la fréquence 95 MHz que nous devons écouter. Sur cette fréquence sera diffusé l'audio *DERNIER-MESSAGE.wav*. 
+
+### Épreuve 2 : Un code mystérieux
+**Audio GQRX** : En prenant la première lettre de chaque mot de cette phrase, on obtient le mot **ARMOIRE**.
+Dans l'armoire, se trouvera le papier avec le code César.
+
+### Épreuve 3 : Déchiffrage du code César
+Pour déchiffrer le code César, il faut prendre une clé de décalage de *3*. Ce qui nous donne le mot de passe de la session d'Antoine : **air-bus!**
+
+### Épreuve 4 : Où se trouve Antoine ?
+**Session** : En se connectant à sa session, on trouve un e-mail contenant l'audio *SECRET.wav*. En le traduisant, on trouve le flag de l'escape game qui est **Pekin Daxing**.
