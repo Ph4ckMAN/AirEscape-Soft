@@ -1,0 +1,8 @@
+Pour l'installation de cette épreuve, plusieurs comptes doivent être créés.
+
+Tout d'abord, créez le compte d'Antoine sur une session de votre choix (nous l'avons fait sur Windows). Dans cette session, il faudra télécharger Outlook ou un autre client de messagerie, puis créer un compte pour Antoine.
+Le mot de passe de la session ainsi que celui du compte mail d'Antoine doivent être "air-bus!".
+
+Ensuite, créez un compte pour une personne anonyme qui enverra l'audio SECRET.wav à Antoine. Dans notre exemple, cette personne s'appelle AgentZ.
+
+Une fois les comptes créés, connectez-vous sur le compte d'AgentZ et envoyez l'audio SECRET.wav à la boîte mail d'Antoine et c'est tout.

@@ -1,0 +1,2 @@
+Pour cette épreuve, le raspberry doit émettre l'audio "DERNIER-MESSAGE.wav" sur la fréquence 95MHz.
+Un ordinateur doit avoir gqrx et un HackRF branché afin de pouvoir écouter le message sur la fréquence.
