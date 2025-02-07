@@ -1,5 +1,5 @@
 # AirEscape-Soft
-Projet escape game pour les lycéens créé par Dimitry, Benjamin et Rémi en classe de RT2 2024-2025.
+Projet escape game pour les lycéens créé par Dimitry, Benjamin et Rémi en classe de Réseaux et Télécommunications à l'IUT de Kourou en Guyane années 2024-2025.
 
 ## Description
 **Synopsis** : Votre ami, le capitaine Antoine Leclerc, a disparu juste avant son vol. En fouillant son bureau, vous découvrez des indices menant à un complot.
