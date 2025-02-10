@@ -1,0 +1,2 @@
+Disposer les papiers comme dans l'image "papiers-couleur.jpeg". L'utilisateur devra retrouver le code
+final à partir de ces papiers grâce aux couleurs.
